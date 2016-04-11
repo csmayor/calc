@@ -15,5 +15,6 @@ function cuadrado() {
   Número:
   <input type="text" id="n1" onclick="vaciar()"><p>
 
+  <button onclick="cuadrado()"> x<sup>2</sup> </button>
 </body>
 </html>
